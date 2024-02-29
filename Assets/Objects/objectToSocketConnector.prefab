@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 696712057529145255}
   - component: {fileID: 5796143941400613205}
   m_Layer: 0
-  m_Name: heldObjectLineGenerator
+  m_Name: objectToSocketConnector
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
