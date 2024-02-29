@@ -16,12 +16,14 @@ public class LineDraw : MonoBehaviour
 
     private LineRenderer line;
     private float closestDistance;
-    private float maxRange = PersistentVariables.Instance.maximumSocketRange;
+    private float maxRange;
     
 
     void Start()
     {
         line = GetComponent<LineRenderer>();
+        maxRange = PersistentVariables.Instance.maximumSocketRange;
+        print("maxRange:" + maxRange);
     }
 
     // Update is called once per frame
