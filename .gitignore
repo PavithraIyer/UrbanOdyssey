@@ -5,8 +5,6 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
@@ -68,3 +66,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+ProjectSettings/ShaderGraphSettings.asset
+Assets/XR/Settings/Open XR Package Settings.asset
+ProjectSettings/Packages/com.unity.learn.iet-framework/Settings.json
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
